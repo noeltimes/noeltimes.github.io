@@ -5,7 +5,7 @@ author: jane
 categories: [ airdrop, exchange ]
 image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/huobi-act-12.webp
 ---
-火币联合 Noel Times 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
+火币联合 Coinalerts 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。
 
 [火币官方福利注册链接](/302?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)
 
@@ -14,7 +14,7 @@ image: https://cdn.jsdelivr.net/gh/muskcoins/muskcoins.github.io/assets/images/h
 #### 注册高返佣
 注册账号在活动期间都可以获得比其他平台高的现货和合约返佣 30%，当前为各大交易所最高的返佣福利了
 
-#### 交易送 5 U（Noel Times社区专项）
+#### 交易送 5 U（Coinalerts社区专项）
 <p class="red-text-word">
 注册后只要发生任何一笔交易就可以获得 5U 的空投
 </p>
@@ -37,4 +37,4 @@ KYC 认证可最高抽取 800 USDT 奖励，等等，最高可领取 241 USDT，
 为庆祝本次火币活动，我们将在本周内，连续 3 天进行红包福利奖励，届时请大家关注微信群。
 
 ### 参与方法
-通过 Noel Times 专属链接注册即可参与
+通过 Coinalerts 专属链接注册即可参与
