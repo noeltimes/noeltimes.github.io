@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /302.html
-Sitemap: https://noeltimes.github.io/sitemap.xml
+Sitemap: https://noeltimes.github.io/jFM/sitemap.jFM.gz
 
